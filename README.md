@@ -8,6 +8,7 @@ I'm Ebin Amson, an undergraduate Computer Science engineer at CUSAT, passionate 
 
 ## 📫 How to reach me
 - **Email**: :[ebinamson91@gmail.com]
+- **Linkedin**:[https://www.linkedin.com/in/ebin-amson-41568a284]
 
 Let's create something amazing! 🚀
 
