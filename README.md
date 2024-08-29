@@ -1,4 +1,4 @@
-
+![Background](./mario.gif)
 
 # Hi there! 👋 I'm Ebin Amson
 
