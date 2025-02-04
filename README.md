@@ -14,7 +14,6 @@ Undergraduate Computer Science engineer at CUSAT, passionate about web developme
 
 Let's create something amazing! 🚀
 <div align="center">
-###
 
 
 <div align="left">
@@ -35,7 +34,6 @@ Let's create something amazing! 🚀
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
