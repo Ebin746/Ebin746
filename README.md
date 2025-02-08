@@ -17,8 +17,6 @@ Hi there! 👋 I'm Ebin Amson<br><br>Undergraduate Computer Science engineer at 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ebin746&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ebin746&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
