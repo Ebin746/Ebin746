@@ -14,14 +14,7 @@ Hi there! 👋 I'm Ebin Amson<br><br>Undergraduate Computer Science engineer at 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ebin746&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebin746&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ebin746&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ebin746&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Ebin746&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
