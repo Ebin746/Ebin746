@@ -1,4 +1,3 @@
-![Background](./mario.gif)
 
 # 💫 About Me:
 Hi there! 👋 I'm Ebin Amson<br><br>Undergraduate Computer Science engineer at CUSAT, passionate about web development and building efficient web application
